@@ -8,12 +8,13 @@ Start Date-8/5/17 End Date-8/8/17
 
 **Ref:** Child, M. "How To Build a Movie Review App in Rails 4".https://www.youtube.com/watch?v=0DR5JLZ2Qgg&index=5&list=PL23ZvcdS3XPLNdRYB_QyomQsShx59tpc-. Oct 4, 2014.
 
-**Results:** Good tutorial overall. The main gem used is as follows:
+**Results:** Good tutorial overall. The main gems used are as follows:
 * Devise-         User registration
 * Paperclip-      Adding images
 * Bootstrap-sass- Basic clean styling
 * Jquery-rails-   Adding Rails functionality
 * Searchkick-     Adding search feature in navbar
+
 * Raty.js-        Adding star rating system
 
 
